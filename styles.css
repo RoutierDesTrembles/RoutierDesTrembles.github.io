@@ -4,6 +4,12 @@ body{
 h1{
     font-size: 100px;
 }
+h2{
+    font-size: 32px;
+}
+h3{
+    font-size: 30px;
+}
 .titre {
     display: flex;
     align-items: center;
@@ -17,12 +23,6 @@ h1{
     height: 200px;
     width: auto;
     display: block;
-}
-h2{
-    font-size: 32px;
-}
-h3{
-    font-size: 30px;
 }
 .plan li{
     list-style: circle;
