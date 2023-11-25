@@ -1,0 +1,29 @@
+body{
+    background-color: #b9aa8a;
+}
+h1{
+    font-size: 100px;
+}
+.titre {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+.left {
+    flex: 1;
+}
+.right img{
+    height: 200px;
+    width: auto;
+    display: block;
+}
+h2{
+    font-size: 32px;
+}
+h3{
+    font-size: 30px;
+}
+.plan li{
+    list-style: circle;
+}
